@@ -1,0 +1,4 @@
+E:\PONTOSYS\Curso\SOLID\5-DIP\Solid.Dip\obj\Debug\netstandard2.0\Solid.Dip.csprojAssemblyReference.cache
+E:\PONTOSYS\Curso\SOLID\5-DIP\Solid.Dip\obj\Debug\netstandard2.0\Solid.Dip.AssemblyInfoInputs.cache
+E:\PONTOSYS\Curso\SOLID\5-DIP\Solid.Dip\obj\Debug\netstandard2.0\Solid.Dip.AssemblyInfo.cs
+E:\PONTOSYS\Curso\SOLID\5-DIP\Solid.Dip\obj\Debug\netstandard2.0\Solid.Dip.csproj.CoreCompileInputs.cache

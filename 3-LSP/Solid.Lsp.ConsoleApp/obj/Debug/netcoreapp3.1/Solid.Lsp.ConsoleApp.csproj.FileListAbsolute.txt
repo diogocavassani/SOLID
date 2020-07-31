@@ -1,0 +1,16 @@
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.csprojAssemblyReference.cache
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.AssemblyInfoInputs.cache
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.AssemblyInfo.cs
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.csproj.CoreCompileInputs.cache
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.exe
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.deps.json
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.runtimeconfig.json
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.runtimeconfig.dev.json
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.dll
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.pdb
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.dll
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\bin\Debug\netcoreapp3.1\Solid.Lsp.pdb
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.csproj.CopyComplete
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.dll
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.pdb
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp.ConsoleApp\obj\Debug\netcoreapp3.1\Solid.Lsp.ConsoleApp.genruntimeconfig.cache

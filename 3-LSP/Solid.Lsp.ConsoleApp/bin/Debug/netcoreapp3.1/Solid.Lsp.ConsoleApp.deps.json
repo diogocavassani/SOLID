@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Solid.Lsp.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Solid.Lsp": "1.0.0"
+        },
+        "runtime": {
+          "Solid.Lsp.ConsoleApp.dll": {}
+        }
+      },
+      "Solid.Lsp/1.0.0": {
+        "runtime": {
+          "Solid.Lsp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solid.Lsp.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solid.Lsp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

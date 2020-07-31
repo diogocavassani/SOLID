@@ -1,0 +1,4 @@
+E:\PONTOSYS\Curso\SOLID\2-OCP\Solid.Ocp\obj\Debug\netstandard2.0\Solid.Ocp.csprojAssemblyReference.cache
+E:\PONTOSYS\Curso\SOLID\2-OCP\Solid.Ocp\obj\Debug\netstandard2.0\Solid.Ocp.AssemblyInfoInputs.cache
+E:\PONTOSYS\Curso\SOLID\2-OCP\Solid.Ocp\obj\Debug\netstandard2.0\Solid.Ocp.AssemblyInfo.cs
+E:\PONTOSYS\Curso\SOLID\2-OCP\Solid.Ocp\obj\Debug\netstandard2.0\Solid.Ocp.csproj.CoreCompileInputs.cache

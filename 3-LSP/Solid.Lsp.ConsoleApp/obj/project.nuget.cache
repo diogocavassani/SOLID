@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qE6BIfsNGvSvkzJ4tyvvwll0EPMIHEwCoLe8GWtYcaSNV77uBEhe2KFU5GcpnmY3LQNVOstO3k4XuoW6/EvVpQ==",
+  "success": true,
+  "projectFilePath": "e:\\PONTOSYS\\Curso\\SOLID\\3-LSP\\Solid.Lsp.ConsoleApp\\Solid.Lsp.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diogo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

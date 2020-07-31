@@ -1,0 +1,9 @@
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\bin\Debug\netstandard2.0\Solid.Srp.deps.json
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\bin\Debug\netstandard2.0\Solid.Srp.dll
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\bin\Debug\netstandard2.0\Solid.Srp.pdb
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\obj\Debug\netstandard2.0\Solid.Srp.csprojAssemblyReference.cache
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\obj\Debug\netstandard2.0\Solid.Srp.AssemblyInfoInputs.cache
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\obj\Debug\netstandard2.0\Solid.Srp.AssemblyInfo.cs
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\obj\Debug\netstandard2.0\Solid.Srp.csproj.CoreCompileInputs.cache
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\obj\Debug\netstandard2.0\Solid.Srp.dll
+E:\PONTOSYS\Curso\SOLID\1-SRP\Solid.Srp\obj\Debug\netstandard2.0\Solid.Srp.pdb

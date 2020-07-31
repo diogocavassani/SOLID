@@ -1,0 +1,9 @@
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\bin\Debug\netstandard2.0\Solid.Lsp.deps.json
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\bin\Debug\netstandard2.0\Solid.Lsp.dll
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\bin\Debug\netstandard2.0\Solid.Lsp.pdb
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\obj\Debug\netstandard2.0\Solid.Lsp.csprojAssemblyReference.cache
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\obj\Debug\netstandard2.0\Solid.Lsp.AssemblyInfoInputs.cache
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\obj\Debug\netstandard2.0\Solid.Lsp.AssemblyInfo.cs
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\obj\Debug\netstandard2.0\Solid.Lsp.csproj.CoreCompileInputs.cache
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\obj\Debug\netstandard2.0\Solid.Lsp.dll
+e:\PONTOSYS\Curso\SOLID\3-LSP\Solid.Lsp\obj\Debug\netstandard2.0\Solid.Lsp.pdb
