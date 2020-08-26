@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cfxzvv9U14bJ8bS//Tm5OkWFzxgjRknM6l2QJbjnfXfTw3tg4fzCeczKgO8FvtFer/Q5c6Rd0+kXC7/qCZItZw==",
+  "dgSpecHash": "qlm+yxF+77St8kg7852gup8aO1yeJFZaclrZR/7cCRe4vCQV+UNb8y4ZJy4gv978C6oPeZlqoC06LJbLVobtew==",
   "success": true,
-  "projectFilePath": "E:\\PONTOSYS\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj",
+  "projectFilePath": "c:\\PC-PontoSys\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Suporte23\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Suporte23\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "e:\\PONTOSYS\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj": {}
+    "c:\\PC-PontoSys\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj": {}
   },
   "projects": {
-    "e:\\PONTOSYS\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj": {
+    "c:\\PC-PontoSys\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\PONTOSYS\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj",
+        "projectUniqueName": "c:\\PC-PontoSys\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj",
         "projectName": "Solid.Ocp",
-        "projectPath": "e:\\PONTOSYS\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj",
-        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "e:\\PONTOSYS\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\obj\\",
+        "projectPath": "c:\\PC-PontoSys\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\Solid.Ocp.csproj",
+        "packagesPath": "C:\\Users\\Suporte23\\.nuget\\packages\\",
+        "outputPath": "c:\\PC-PontoSys\\Curso\\SOLID\\2-OCP\\Solid.Ocp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Suporte23\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PONTOSYS\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj": {}
+    "c:\\PC-PontoSys\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj": {}
   },
   "projects": {
-    "E:\\PONTOSYS\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj": {
+    "c:\\PC-PontoSys\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PONTOSYS\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj",
+        "projectUniqueName": "c:\\PC-PontoSys\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj",
         "projectName": "Solid.Isp",
-        "projectPath": "E:\\PONTOSYS\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj",
-        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-        "outputPath": "E:\\PONTOSYS\\Curso\\SOLID\\4-ISP\\Solid.Isp\\obj\\",
+        "projectPath": "c:\\PC-PontoSys\\Curso\\SOLID\\4-ISP\\Solid.Isp\\Solid.Isp.csproj",
+        "packagesPath": "C:\\Users\\Suporte23\\.nuget\\packages\\",
+        "outputPath": "c:\\PC-PontoSys\\Curso\\SOLID\\4-ISP\\Solid.Isp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Suporte23\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
